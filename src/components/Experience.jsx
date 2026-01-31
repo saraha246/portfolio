@@ -34,6 +34,7 @@ export default function Experience() {
             key={i}
             initial={{ opacity: 0, x: -40 }}
             whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
             transition={{ delay: i * 0.15 }}
             className="p-6 border border-purple-700 rounded-xl hover:bg-purple-900/10"
           >
