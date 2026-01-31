@@ -17,6 +17,11 @@ export default function Experience() {
       org: "Andropedia (SRM)",
       desc: "Part of the core technical team contributing to projects and internal tech initiatives.",
     },
+    {
+      role: "PR And Marketing Member",
+      org: "CHipSET (SRM)",
+      desc: "Part of the core team managing public relations and marketing initiatives.",
+    },
   ];
 
   return (
